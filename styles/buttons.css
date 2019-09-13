@@ -9,8 +9,8 @@ button:focus {
 }
 
 button.primary {
-  background: black;
-  color: white;
+  background: red;
+  color: black;
 }
 
 button.secondary {

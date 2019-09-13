@@ -1,5 +1,5 @@
 window.onload = function() {
-  alert("hello world!");
+  // alert("hello world!");
 };
 
 function buttonFunction() {
